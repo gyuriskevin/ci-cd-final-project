@@ -1,12 +1,13 @@
+
 # CI/CD Tools and Practices Final Project Template
 
-This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
+ci-cd-final-project
 
 ## Usage
 
 This repository is to be used as a template to create your own repository in your own GitHub account. No need to Fork it as it has been set up as a Template. This will avoid confusion when making Pull Requests in the future.
 
-From the GitHub **Code** page, press the green **Use this template** button to create your own repository from this template.
+From the GitHub Code page, press the green Use this template button to create your own repository from this template.
 
 Name your repo: `ci-cd-final-project`.
 
@@ -26,13 +27,10 @@ exit
 
 ## Tasks
 
-
 ## License
 
-Licensed under the Apache License. See [LICENSE](/LICENSE)
+Licensed under the Apache License. See [LICENSE](LICENSE).
 
 ## Author
 
 Skills Network
-
-## <h3 align="center"> © IBM Corporation 2023. All rights reserved. <h3/>
